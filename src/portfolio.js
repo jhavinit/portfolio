@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/jhavinit",
   linkedin: "https://www.linkedin.com/in/vinit-narayan-jha-07",
-  gmail: "jhavinit07@gmail.com",
+  gmail: "vj76223@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@vj76223",
@@ -436,7 +436,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-0000000000",
-  email_address: "jhavinit07@gmail"
+  email_address: "vj76223@gmail"
 };
 
 // Twitter Section
